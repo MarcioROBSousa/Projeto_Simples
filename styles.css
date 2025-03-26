@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:grey;
+    color: aliceblue;
+    padding: 15px 0;
+}
+
+section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: bisque;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.apresentacao {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:yellow;
+    margin-top: 15px;
+  
+}
+#CSS {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+
